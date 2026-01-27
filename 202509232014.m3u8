@@ -68,7 +68,7 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index.m3u8?service
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225716/index.m3u8?servicetype=1&
 #EXTINF:-1,广东珠江
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&
-#EXTINF:-1,上海卫视
+#EXTINF:-1,东方卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8?servicetype=1&
 #EXTINF:-1,湖南卫视
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8?servicetype=1&
@@ -437,5 +437,6 @@ http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226333/index.m3u8?service
 #EXTINF:-1,Unknown_6437
 
 http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226437/index.m3u8?servicetype=1&
+
 
 
